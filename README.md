@@ -1,2 +1,2 @@
 # ATM-Project
-A project on basic function ATM using python
+A project on basic function of ATM using python
