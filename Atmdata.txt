@@ -1,0 +1,3 @@
+['BiswadeepChoudhury', 'AparnaChoudhury', 'Firad', 'Mukul', 'Vaishnavi', 'Duttn']
+[7980, 9007, 6290, 4444, 1850, 6496]
+[103000, 50000, 80000, 70000, 2000020000, 90000000000000000000]
